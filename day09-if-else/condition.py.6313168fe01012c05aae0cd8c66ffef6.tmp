@@ -1,0 +1,56 @@
+# age = int(input("Enter your age \n"))
+
+# if age >= 18:
+#     print("you elegible to vote")
+# else:
+#     print("you are not elegible to vote")
+
+# 2nd
+# if age >= 18:
+#     print("you elegible to vote")
+
+# 3rd
+# if True:
+#     print("you are true")
+# else:
+#     print("you are false")
+
+# 4th
+# age = 0
+# age = 51
+# if age:
+#     print("you elegible to vote")
+# else:
+#     print("you are not elegible to vote")
+
+# 5th  if else elif for more than one condition
+age = int(input('Enter you age'))
+
+if age >= 18 and age <= 40:
+    print("you are elegible to on everest")
+elif age<18 or age >40:
+    print("you are not elegible")
+
+
+
+# profession = input("Enter your profession")
+
+# if profession == "bio":
+#     print("you are elegible to become a doctor")
+    
+# elif:
+#     print
+
+
+
+
+
+
+# Logic building with if Else
+
+# iceCreamPrice = int(input("How much money do you have?"))
+
+# if iceCreamPrice >= 100:
+#     print("you can buy ice Creame")
+# else:
+#     print("you can not buy please collect more rupees")

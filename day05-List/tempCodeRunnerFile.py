@@ -1,0 +1,2 @@
+ages.reverse()
+print(ages)
