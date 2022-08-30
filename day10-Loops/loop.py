@@ -39,9 +39,10 @@ number = 9
 
 # actual method
 # num = [2,6,4,7,8,2,16,9,7,1,2,5,4]
+# we are learning lopp
 num = 10
 while num >= 1:
-    if num%2 == 0:
+    if num%2 == 0;
         print(num)
     else:
         print("Even Nahi hai",num)
