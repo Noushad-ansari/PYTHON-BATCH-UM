@@ -34,7 +34,7 @@
 #     print('Sorry sir you are senior citizen you cant go there')
 
 
-
+# Nested IF_ELSE
 # 6th
 subject = input("Enter your subject \n")
 
